@@ -22,3 +22,4 @@ else speak_to_grandma == "".downcase
 end
 
 
+speak_to_grandma = "hello"
